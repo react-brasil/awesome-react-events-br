@@ -1,7 +1,7 @@
 # Awesome list of React events in Brazil
 
+## States:
 ### SP
-
 - [Meetup em São Paulo.](http://www.meetup.com/ReactJS-SP/)
 
 ### SC
