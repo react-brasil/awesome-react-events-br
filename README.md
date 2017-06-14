@@ -5,8 +5,8 @@
 - [Meetup em Porto Alegre](https://www.meetup.com/React-Porto-Alegre/)
 
 ### SP
-- [Meetup em São Paulo.](https://www.meetup.com/ReactJS-SP/)
-- [Meetup em Campinas.](https://www.meetup.com/React-Campinas/)
+- [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP/)
+- [Meetup em Campinas](https://www.meetup.com/React-Campinas/)
 
 ### SC
 
