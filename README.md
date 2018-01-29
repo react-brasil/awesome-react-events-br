@@ -1,6 +1,9 @@
 # Awesome list of React events in Brazil
 
 ## States:
+### PR
+- [Meetup em Maringá](https://www.meetup.com/pt-BR/React-Maringa/)
+
 ### RS
 - [Meetup em Porto Alegre](https://www.meetup.com/React-Porto-Alegre/)
 
