@@ -6,6 +6,7 @@
 ## Regional level:
 
 ### PR
+- [Meetup em Curitiba](https://www.meetup.com/pt-BR/ReactJS-CWB/)
 - [Meetup em Maringá](https://www.meetup.com/pt-BR/React-Maringa/)
 
 ### RJ
