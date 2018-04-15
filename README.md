@@ -20,6 +20,7 @@
 - [Meetup em Blumenau](https://www.meetup.com/React-Blumenau/)
 - [Meetup em Florianópolis](http://www.meetup.com/ReactJS-Floripa/)
 - [Meetup em Joinville](https://www.meetup.com/pt-BR/React-Joinville/)
+- [Meetup em Balneário Camboriú](https://www.meetup.com/qualyteam/events/249141787/?eventId=249141787)
 
 ### SP
 - [Meetup em Campinas](https://www.meetup.com/React-Campinas/)
