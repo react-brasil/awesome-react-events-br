@@ -22,8 +22,8 @@
 - [Meetup em Joinville](https://www.meetup.com/pt-BR/React-Joinville/)
 
 ### SP
-- [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP/)
 - [Meetup em Campinas](https://www.meetup.com/React-Campinas/)
+- [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP/)
 
 
 ## Contribute
