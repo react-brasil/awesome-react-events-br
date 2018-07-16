@@ -5,6 +5,9 @@
 
 ## Regional level:
 
+### BA
+- [Meetup em Salvador](https://www.facebook.com/reactssa/)
+
 ### PR
 - [Meetup em Curitiba](https://www.meetup.com/pt-BR/ReactJS-CWB/)
 - [Meetup em Maringá](https://www.meetup.com/pt-BR/React-Maringa/)
