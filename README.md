@@ -5,6 +5,10 @@
 
 ## Regional level:
 
+### MG
+
+- [Meetup em Belo Horizonte](https://www.meetup.com/reactbh/)
+
 ### BA
 - [Meetup em Salvador](https://www.facebook.com/reactssa/)
 
