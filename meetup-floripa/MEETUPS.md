@@ -37,3 +37,13 @@
 1. Deep dive into Animated API de [Guilherme Jabur](https://github.com/jaburcodes)
 2. [A pirâmide de testes na prática com React + Redux, Jest, Enzyme e Cypress](https://docs.google.com/presentation/d/1zA5h6Fn8jC_p7nCcfFVSi2N1BAp4anfKv-J2wCz1-Jg/edit#slide=id.g20c27d7a3e_0_0) de [Marco Nicolodi](https://github.com/MarcoNicolodi)
 3. Unleash the power of HTML5 Canvas with React Konva de [Sebastian Ferrari](https://github.com/sebas5384)
+
+* 9º Encontro - ReactJS Florianópolis - June 16, 2018 - Resultados Digitais
+1. The New Context API [Guilherme Jabur](https://github.com/jaburcodes)
+2. [Mercado de Trabalho com ReactJs](https://docs.google.com/presentation/d/1etyjRFhPgThuvuUHJvXBY2-35DW740BnAo2ZLhTdCzo/edit#slide=id.g35f391192_00) de [Nicholas Eduardo](https://github.com/nicholasess)
+3. [Anunciando Docz. Uma lib simples que vai ajudar você a documentar e criar seus components!](https://github.com/pedronauck/docz) de [Pedro Nauck](https://github.com/pedronauck)
+
+* 10º Encontro - ReactJS Florianópolis + Facebook Developers Circle
+1. [What about Next.js?](https://github.com/arojunior/what-about-nextjs) de [Junior Oliveira](https://github.com/arojunior)
+2. [Performance em UX: quantificando a subjetividade com métricas biológicas e cognitivas/emocionais](https://drive.google.com/file/d/0B6ZL7go4q1HLaW0tX2MxTDlwWFNWTy1ka0xpNVJLRnBXN3U4/view?usp=sharing) de Leandro Mattos
+3. [Do React ao Native](https://slides.com/marquinhoalmeida/do-react-ao-native) de [Marco Almeida](https://github.com/marquinhoalm?tab=repositories)
