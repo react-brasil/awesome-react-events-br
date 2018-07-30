@@ -5,12 +5,12 @@
 
 ## Regional level:
 
-### MG
-
-- [Meetup em Belo Horizonte](https://www.meetup.com/reactbh/)
 
 ### BA
 - [Meetup em Salvador](https://www.facebook.com/reactssa/)
+
+### MG
+- [Meetup em Belo Horizonte](https://www.meetup.com/reactbh/)
 
 ### PR
 - [Meetup em Curitiba](https://www.meetup.com/pt-BR/ReactJS-CWB/)
