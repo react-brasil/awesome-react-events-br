@@ -43,7 +43,7 @@
 2. [Mercado de Trabalho com ReactJs](https://docs.google.com/presentation/d/1etyjRFhPgThuvuUHJvXBY2-35DW740BnAo2ZLhTdCzo/edit#slide=id.g35f391192_00) de [Nicholas Eduardo](https://github.com/nicholasess)
 3. [Anunciando Docz. Uma lib simples que vai ajudar você a documentar e criar seus components!](https://github.com/pedronauck/docz) de [Pedro Nauck](https://github.com/pedronauck)
 
-### 10º Encontro - ReactJS Florianópolis + Facebook Developers Circle
+### [10º Encontro - ReactJS Florianópolis + Facebook Developers Circle](https://www.facebook.com/involves/videos/1744601952253530) - July 28, 2018 - Involves Tecnologia
 1. [What about Next.js?](https://github.com/arojunior/what-about-nextjs) de [Junior Oliveira](https://github.com/arojunior)
 2. [Performance em UX: quantificando a subjetividade com métricas biológicas e cognitivas/emocionais](https://drive.google.com/file/d/0B6ZL7go4q1HLaW0tX2MxTDlwWFNWTy1ka0xpNVJLRnBXN3U4/view?usp=sharing) de Leandro Mattos
 3. [Do React ao Native](https://slides.com/marquinhoalmeida/do-react-ao-native) de [Marco Almeida](https://github.com/marquinhoalm?tab=repositories)
