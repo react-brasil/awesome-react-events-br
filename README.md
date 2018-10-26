@@ -9,6 +9,9 @@
 ### BA
 - [Meetup em Salvador](https://www.facebook.com/reactssa/)
 
+### GO
+- [Meetup em Goiânia](https://www.meetup.com/pt-BR/React-Goiania/)
+
 ### MG
 - [Meetup em Belo Horizonte](https://www.meetup.com/reactbh/)
 
