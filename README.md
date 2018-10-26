@@ -9,6 +9,9 @@
 ### BA
 - [Meetup em Salvador](https://www.facebook.com/reactssa/)
 
+### GO
+- [Meetup em Goiânia](https://www.meetup.com/pt-BR/React-Goiania/)
+
 ### MG
 - [Meetup em Belo Horizonte](https://www.meetup.com/reactbh/)
 
@@ -32,8 +35,6 @@
 - [Meetup em Campinas](https://www.meetup.com/React-Campinas/)
 - [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP/)
 
-### GO
-- [Meetup em Goiânia](https://www.meetup.com/pt-BR/React-Goiania/)
 
 ## Contribute
 Create a PR or open an issue.
