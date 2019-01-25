@@ -7,7 +7,7 @@
 
 
 ### BA
-- [Meetup em Salvador](https://www.facebook.com/reactssa/)
+- [Meetup em Salvador](https://www.meetup.com/pt-BR/reactssa/)
 
 ### GO
 - [Meetup em Goiânia](https://www.meetup.com/pt-BR/React-Goiania/)
