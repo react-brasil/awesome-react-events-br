@@ -27,12 +27,10 @@
 
 ### SC
 
-- [Meetup em Blumenau](https://www.meetup.com/React-Blumenau/)
 - [Meetup em Florianópolis](http://www.meetup.com/ReactJS-Floripa/)
 - [Meetup em Joinville](https://www.meetup.com/pt-BR/React-Joinville/)
 
 ### SP
-- [Meetup em Campinas](https://www.meetup.com/React-Campinas/)
 - [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP/)
 
 
