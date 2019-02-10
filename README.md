@@ -14,7 +14,7 @@
 
 ### MG
 - [Meetup em Belo Horizonte](https://www.meetup.com/reactbh)
-- [Meetup em Juíz de Fora](https://www.meetup.com/React-Juiz-de-Fora)
+- [Meetup em Juiz de Fora](https://www.meetup.com/React-Juiz-de-Fora)
 
 ### PR
 - [Meetup em Curitiba](https://www.meetup.com/ReactJS-CWB)
