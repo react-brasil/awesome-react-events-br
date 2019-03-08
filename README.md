@@ -40,4 +40,4 @@ Create a PR or open an issue.
 Try to follow a pattern, or suggest a better one :)
 
 ## Slack
-http://react-brasil-slack.herokuapp.com/
+https://react.now.sh
