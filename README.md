@@ -33,6 +33,7 @@
 
 ### SP
 - [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP)
+- [Meetup em São Carlos](https://www.meetup.com/react-sanca)
 
 
 ## Contribute
