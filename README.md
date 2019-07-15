@@ -16,6 +16,9 @@
 - [Meetup em Belo Horizonte](https://www.meetup.com/reactbh)
 - [Meetup em Juiz de Fora](https://www.meetup.com/React-Juiz-de-Fora)
 
+### PE
+- [Meetup em Recife](https://www.meetup.com/ReactJS-PE/)
+
 ### PR
 - [Meetup em Curitiba](https://www.meetup.com/ReactJS-CWB)
 - [Meetup em Maringá](https://www.meetup.com/React-Maringa)
