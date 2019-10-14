@@ -69,9 +69,5 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 - [Meetup em São Carlos](https://www.meetup.com/react-sanca)
 
 
-## Contribute
-Create a PR or open an issue.
-Try to follow a pattern, or suggest a better one :)
-
 ## Slack
 https://react.now.sh
