@@ -12,6 +12,9 @@
 ### GO
 - [Meetup em Goiânia](https://www.meetup.com/React-Goiania)
 
+### ES
+- [Meetup no Espírito Santo](https://www.meetup.com/pt-BR/React-ES/)
+
 ### MG
 - [Meetup em Belo Horizonte](https://www.meetup.com/reactbh)
 - [Meetup em Juiz de Fora](https://www.meetup.com/React-Juiz-de-Fora)
