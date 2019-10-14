@@ -24,7 +24,7 @@ Repositório responsável em listar eventos sobre nosso querido **[React](https:
 
 Todas **[Meetups](https://meetup.com)**, **[Hangouts](https://hangouts.google.com/)**, conferências e reuniões são bem-vindas e gostaríamos muito de ver esta lista crescer, sinta-se livre para contribuir.
 
-Não tenha medo de começar que seu meetup, da mesma forma que você existem inumeras pessoas interessadas em todos os lugares.
+Começou um novo meetup ou está afim de começar? Manda ver! Como você, existem outras inúmeras pessoas interessantes em aprender e compartilhar conhecimento. Abra um **[Pull Request](https://github.com/react-brasil/awesome-react-events-br/pulls)** para adicionar aqui na lista.
 
 > caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**
 
