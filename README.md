@@ -1,4 +1,37 @@
+<div align="center">
+  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" width="350" alt="React Brasil">
+	<br>
+	<br>
+	<p>
+		<a href="https://reactconf.com.br/">
+			<b>reactconf.com.br</b>
+		</a>
+	</p>
+	<br>
+</div>
+<p align="center">
+	<sub><i>Também confira nossos outros projetos</i></sub>
+  <br/>
+	<a href="https://github.com/react-brasil/empresas-que-usam-react-no-brasil">Empresas que usam React no Brasil</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/react-brasil/me-contrata/issues?q=is%3Aopen+is%3Aissue">Procurando talentos?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/react-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+
 # Awesome list of React events in Brazil
+
+Repositório responsável em listar eventos sobre nosso querido **[React](https://reactjs.org/)**
+
+Todas **[Meetups](https://meetup.com)**, **[Hangouts](https://hangouts.google.com/)**, conferências e reuniões são bem-vindas e gostaríamos muito de ver esta lista crescer, sinta-se livre para contribuir.
+
+Começou um novo meetup ou está afim de começar? Manda ver! Como você, existem outras inúmeras pessoas interessantes em aprender e compartilhar conhecimento. Abra um **[Pull Request](https://github.com/react-brasil/awesome-react-events-br/pulls)** para adicionar aqui na lista.
+
+> caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**
+
+## Contribuições, dúvidas e melhorias. 😃
+
+Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/awesome-react-events-br/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
+
 
 ## National level:
 [React Conf Brasil](https://reactconf.com.br)
@@ -41,10 +74,6 @@
 - [Meetup em São Paulo](https://www.meetup.com/ReactJS-SP)
 - [Meetup em São Carlos](https://www.meetup.com/react-sanca)
 
-
-## Contribute
-Create a PR or open an issue.
-Try to follow a pattern, or suggest a better one :)
 
 ## Slack
 https://react.now.sh
